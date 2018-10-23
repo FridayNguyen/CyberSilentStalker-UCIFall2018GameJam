@@ -19,5 +19,12 @@ My roles within the project include **_designing_** and **_programming_** the ga
   - Camera post-processing effects.
   - Models for playable character and non-playable characters.
   - Materials for playable character and non-playable characters.
+- **Implementing Tutorial**
 - **Bug fixing.**
 
+
+### Changelog (Post Game Jam)
+- Fixed lightings to be consistent between levels.
+- Fixed UI to scale correctly on most platform and resolutions.
+- Added Tutorial font.
+- Fixed tutorial scaling.
