@@ -1,4 +1,5 @@
-## Cyber Silent Stalker
+## CYBER SILENT STALKER
+---
 
 #### This game was developed as a submission for the UCI's 48-hours Fall 2018 Proto Game Jam.
 
