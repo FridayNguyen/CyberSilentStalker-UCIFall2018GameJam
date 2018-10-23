@@ -1,5 +1,5 @@
 ## CYBER SILENT STALKER
-##### This game was developed as a submission for the UCI's **48-hours Fall 2018 Proto Game Jam**.
+##### This game was developed as a submission for the UCI's **_48-hours Fall 2018 Proto Game Jam_**.
 
 My roles within the project include **_designing_** and **_programming_** the gameplay. I also designed, created, and implement the game's aesthetic.
 
