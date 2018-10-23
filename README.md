@@ -40,3 +40,4 @@ My roles (Hung Dac Nguyen) within the project include **_designing_** and **_pro
 - Fixed UI to scale correctly on most platform and resolutions.
 - Added Tutorial font.
 - Fixed tutorial scaling.
+- Credits page now display properly
