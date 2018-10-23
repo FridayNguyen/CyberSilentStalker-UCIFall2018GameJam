@@ -25,7 +25,7 @@ My roles (Hung Dac Nguyen) within the project include **_designing_** and **_pro
 
 ---
 
-## Other Developers:
+### Other Developers:
  - Ian Thomas - Artist
  - Lyndon Alexander de la Torre - Audio
  - Blong Timothy Yang - Programmer
