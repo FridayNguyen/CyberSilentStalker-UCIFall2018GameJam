@@ -9,6 +9,7 @@ My roles within the project include **_designing_** and **_programming_** the ga
 - **Implementing the gameplay, notably:**
   - Enemy vision and detection.
   - Enemy pursuit behaviors.
+  - Enemy shooting mechanic.
   - Enemy's stationary behaviors.
   - Player-Enemy interactions.
   - Player death and respawning.
