@@ -4,6 +4,8 @@
 
 My roles within the project include **_designing_** and **_programming_** the gameplay. I also designed, created, and implement the game's aesthetic.
 
+---
+
 ## **Personal contributions:**
 - **Designing the gameplay. [Link to Design Document](Design_Document.docx)**
 - **Implementing the gameplay, notably:**
@@ -22,6 +24,7 @@ My roles within the project include **_designing_** and **_programming_** the ga
 - **Implementing Tutorial**
 - **Bug fixing.**
 
+---
 
 ### Changelog (Post Game Jam)
 - Fixed lightings to be consistent between levels.
