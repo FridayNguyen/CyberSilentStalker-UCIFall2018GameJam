@@ -5,15 +5,6 @@ My roles (Hung Dac Nguyen) within the project include **_designing_** and **_pro
 
 ---
 
-## Other Developers:
- - Ian Thomas - Artist
- - Lyndon Alexander de la Torre - Audio
- - Blong Timothy Yang - Programmer
- - Ryan Liao - Level Designer
- - Sean Kim - Designer
-
----
-
 ## **Personal contributions:**
 - **Designing the gameplay. [Link to Design Document](Design_Document.docx)**
 - **Implementing the gameplay, notably:**
@@ -33,6 +24,16 @@ My roles (Hung Dac Nguyen) within the project include **_designing_** and **_pro
 - **Bug fixing.**
 
 ---
+
+## Other Developers:
+ - Ian Thomas - Artist
+ - Lyndon Alexander de la Torre - Audio
+ - Blong Timothy Yang - Programmer
+ - Ryan Liao - Level Designer
+ - Sean Kim - Designer
+
+---
+
 
 ### Changelog (Post Game Jam)
 - Fixed lightings to be consistent between levels.
