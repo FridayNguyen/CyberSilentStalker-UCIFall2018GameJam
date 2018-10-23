@@ -5,6 +5,15 @@ My roles within the project include **_designing_** and **_programming_** the ga
 
 ---
 
+## Other Developers:
+ - Ian Thomas - Artist
+ - Lyndon Alexander de la Torre - Audio
+ - Blong Timothy Yang - Programmer
+ - Ryan Liao - Level Designer
+ - Sean Kim - Designer
+
+---
+
 ## **Personal contributions:**
 - **Designing the gameplay. [Link to Design Document](Design_Document.docx)**
 - **Implementing the gameplay, notably:**
