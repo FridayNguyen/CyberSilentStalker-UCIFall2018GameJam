@@ -1,7 +1,7 @@
 ## CYBER SILENT STALKER
 ##### This game was developed as a submission for the UCI's **_48-hours Fall 2018 Proto Game Jam_**.
 
-My roles within the project include **_designing_** and **_programming_** the gameplay. I also designed, created, and implement the game's aesthetic.
+My roles (Hung Dac Nguyen) within the project include **_designing_** and **_programming_** the gameplay. I also designed, created, and implement the game's aesthetic elements.
 
 ---
 
@@ -24,6 +24,16 @@ My roles within the project include **_designing_** and **_programming_** the ga
 - **Bug fixing.**
 
 ---
+
+## Other Developers:
+ - Ian Thomas - Artist
+ - Lyndon Alexander de la Torre - Audio
+ - Blong Timothy Yang - Programmer
+ - Ryan Liao - Level Designer
+ - Sean Kim - Designer
+
+---
+
 
 ### Changelog (Post Game Jam)
 - Fixed lightings to be consistent between levels.
