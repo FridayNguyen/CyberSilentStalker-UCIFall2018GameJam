@@ -35,9 +35,17 @@ My roles (Hung Dac Nguyen) within the project include **_designing_** and **_pro
 ---
 
 
-### Changelog (Post Game Jam)
+### Changelog (Post Game Jam):
 - Fixed lightings to be consistent between levels.
 - Fixed UI to scale correctly on most platform and resolutions.
 - Added Tutorial font.
 - Fixed tutorial scaling.
 - Credits page now display properly
+
+---
+
+### Known Bugs:
+ - Enemy rotation will sometime snap abruptly when going back to their patrol route.
+ - Dashing into a non-playable character will sometimes lift the player above the level until respawning.
+ - Player can not be detected while dashing.
+ - Player hitbox is larger than represented.
